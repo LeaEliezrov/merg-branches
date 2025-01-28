@@ -1,7 +1,8 @@
-const chaniAndLea=()=>{
+const chanyAndLeah= ()=>{
 
+    
     return(
-        <p>chaniAndLea😁</p>
+        <p>chany and Leah</p>
     )
 }
-export default chaniAndLea
+export default chanyAndLeah;
